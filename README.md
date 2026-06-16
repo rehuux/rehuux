@@ -10,12 +10,9 @@ backend // cybersecurity // api's
 </samp>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rehuux&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rehuux&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rehuux&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=rehuux&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.shion.dev/api?username=rehuux&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rehuux&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rehuux&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rehu) 
