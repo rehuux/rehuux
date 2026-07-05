@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/rehuux/rehuux/refs/heads/main/header.png)](https://rehux.netlify.app/)
+[![header](https://raw.githubusercontent.com/rehuux/rehuux/refs/heads/main/header.jpg)](https://rehux.netlify.app/)
   
 <samp>
   
